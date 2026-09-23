@@ -1,2 +1,2 @@
 # ds-blockchain
-Portfolio as a blockchain developer
+Portfolio for a blockchain developer
